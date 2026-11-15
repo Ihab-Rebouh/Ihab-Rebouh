@@ -12,7 +12,7 @@ Digital Production Engineering Student | Electronics Engineer | Technology Enthu
   <a href="https://github.com/Ihab-Rebouh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ihab.rebouh@stud.th-owl.de">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -28,7 +28,7 @@ Currently studying **Digital Production Engineering**, with a background in Elec
 I'm interested in:
 
 - Digital Production and Smart Manufacturing
--  Industrial Automation
+- Industrial Automation
 - Electronics and Embedded Systems
 - Programming and Software Development
 - Computer Vision and Artificial Intelligence
