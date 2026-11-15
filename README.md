@@ -36,7 +36,7 @@ I'm passionate about combining engineering, programming and technology to develo
 - Electronics & Embedded Systems
 - Programming & Software Development
 - Computer Vision & Artificial Intelligence
-- Industry 4.0
+
 
 🌍 Bielefeld, Germany  
 🎓 Digital Production Engineering Student  
