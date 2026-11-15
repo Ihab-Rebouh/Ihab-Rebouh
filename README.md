@@ -1,118 +1,139 @@
 
-<h1 align="center">Hi 👋, I'm Ihab Rebouh</h1>
+<h1 align="center">Hi, I'm Ihab Rebouh 👋</h1>
 
 <h3 align="center">
-Digital Production Engineering Student | Electronics | Programming | Automation
+Digital Production Engineering Student | Electronics Engineer | Technology Enthusiast
 </h3>
 
 <p align="center">
   <a href="https://ihabrebouh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-50B0A3?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-55B1A5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bielefeld%2C%20Germany-blue?style=for-the-badge" />
+  <a href="https://github.com/Ihab-Rebouh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Ihab Rebouh**, a Digital Production Engineering student at
-Technische Hochschule OWL in Germany, with a background in Electronic Engineering.
+I'm **Ihab Rebouh**, an engineering student based in Bielefeld, Germany.
 
-I'm interested in combining engineering, programming and technology
-to develop practical solutions.
+Currently studying **Digital Production Engineering**, with a background in Electronic Engineering.
 
-- 🎓 Studying Digital Production Engineering at TH OWL
-- ⚡ Background in Electronic Engineering
-- 💻 Interested in programming and embedded systems
-- 🤖 Exploring automation, computer vision and Industry 4.0
-- 🌍 Based in Bielefeld, Germany
-- 🌐 Portfolio: [ihabrebouh.dev](https://ihabrebouh.dev)
+I'm interested in:
+
+- Digital Production and Smart Manufacturing
+- Industry 4.0 and Industrial Automation
+- Electronics and Embedded Systems
+- Programming and Software Development
+- Computer Vision and Artificial Intelligence
+
+🌍 Based in Bielefeld, Germany  
+🎓 Digital Production Engineering Student  
+💡 Interested in engineering, innovation and technology.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Electronics & Embedded Systems
+### Engineering & Electronics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-333333?style=for-the-badge"/>
 </p>
 
-### Engineering & Design Tools
-
-- MATLAB
-- Simulink
-- Altium Designer
-- Autodesk Eagle
-- Arduino IDE
-- PlatformIO
-
-### Development Tools
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 💻 Featured Projects
 
-### 1. Engineering Portfolio
-My personal portfolio showcasing my engineering background,
-technical skills, academic projects and experience.
+### 1. ESP8266 Smart Monitoring System
 
-🔗 [Visit Portfolio](https://ihabrebouh.dev)
+- ESP8266-based embedded system.
+- PIR and ultrasonic sensors.
+- OLED display integration.
+- MQTT communication.
 
-### 2. Real-Time Object Detection using YOLO and CARLA
-A practical project involving computer vision and real-time
-object detection in a simulated driving environment.
+### 2. Real-Time Object Detection in CARLA
 
-### 3. ESP8266 IoT Monitoring System
-An electronics project using ESP8266, sensors, OLED display
-and MQTT communication.
+- YOLO object detection.
+- CARLA simulation environment.
+- Python and Pygame integration.
+- Real-time object detection.
+
+### 3. Electronics & Arduino Projects
+
+- Sensor integration.
+- Microcontroller programming.
+- Stepper motor control.
+- Embedded systems development.
 
 ---
 
 ## 🎓 Education
 
-**Digital Production Engineering**
-Technische Hochschule Ostwestfalen-Lippe (TH OWL), Germany
+**Digital Production Engineering**  
+Technische Hochschule Ostwestfalen-Lippe (TH OWL)  
+Germany
 
-**Electronic Engineering**
-Université de Batna 2, Algeria
-
----
-
-## 🌍 Languages
-
-- Arabic — Native
-- French — B2
-- English — B2
-- German — A2 (currently studying B1)
+**Bachelor's Degree in Electronic Engineering**  
+Université de Batna 2  
+Algeria
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ihab-Rebouh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ihab-Rebouh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihab-Rebouh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihab-Rebouh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+## 📫 Connect With Me
+
 <p align="center">
-  <b>Engineering meets innovation.</b>
-  <br/>
-  Thanks for visiting my GitHub profile! 🚀
+  <a href="https://ihabrebouh.dev">
+    <img src="https://img.shields.io/badge/Portfolio-55B1A5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ihab-Rebouh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Engineering ideas into reality. 🚀</i>
 </p>
