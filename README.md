@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ihab Rebouh 👋</h1>
 
 <h3 align="center">
-Digital Production Engineering Student | Electronics Engineer | Technology Enthusiast
+Digital Production Engineering Student | Electronics  | Technology Enthusiast
 </h3>
 
 <p align="center">
