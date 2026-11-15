@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ihab Rebouh 👋</h1>
 
 <h3 align="center">
-Digital Production Engineering Student | Electronics  | Technology Enthusiast
+Digital Production Engineering Student | Electronics Engineer | Technology Enthusiast
 </h3>
 
 <p align="center">
@@ -23,50 +23,42 @@ Digital Production Engineering Student | Electronics  | Technology Enthusiast
 
 I'm **Ihab Rebouh**, an engineering student based in Bielefeld, Germany.
 
-Currently studying **Digital Production Engineering**, with a background in Electronic Engineering.
+Currently studying **Digital Production Engineering** at Technische Hochschule Ostwestfalen-Lippe (TH OWL), with a background in Electronic Engineering.
 
-I'm interested in:
+I'm passionate about combining engineering, programming and technology to develop practical solutions.
 
-- Digital Production and Smart Manufacturing
+**Areas of Interest:**
+- Digital Production & Smart Manufacturing
 - Industrial Automation
-- Electronics and Embedded Systems
-- Programming and Software Development
-- Computer Vision and Artificial Intelligence
+- Electronics & Embedded Systems
+- Programming & Software Development
+- Computer Vision & Artificial Intelligence
+- Industry 4.0
 
-🌍 Based in Bielefeld, Germany  
+🌍 Bielefeld, Germany  
 🎓 Digital Production Engineering Student  
-💡 Interested in engineering, innovation and technology.
+💡 Always learning and building new projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&theme=dark" />
 </p>
 
 ### Engineering & Electronics
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP8266-333333?style=for-the-badge"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" />
 </p>
 
-### Tools & Platforms
+### Tools & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,raspberrypi&theme=dark" />
 </p>
 
 ---
@@ -76,23 +68,31 @@ I'm interested in:
 ### 1. ESP8266 Smart Monitoring System
 
 - ESP8266-based embedded system.
-- PIR and ultrasonic sensors.
-- OLED display integration.
+- PIR and ultrasonic sensor integration.
+- OLED display using Adafruit SSD1306.
 - MQTT communication.
+- Real-time monitoring and automation.
+
+**Technologies:** C++, Arduino IDE, ESP8266, MQTT.
 
 ### 2. Real-Time Object Detection in CARLA
 
-- YOLO object detection.
+- Real-time object detection using YOLO.
 - CARLA simulation environment.
 - Python and Pygame integration.
-- Real-time object detection.
+- Computer vision and autonomous driving concepts.
 
-### 3. Electronics & Arduino Projects
+**Technologies:** Python, YOLO, CARLA, Pygame.
 
-- Sensor integration.
+[View Project on GitHub](https://github.com/Ihab-Rebouh/ge-practical-ss26-it-group03a)
+
+### 3. Electronics & Embedded Systems
+
 - Microcontroller programming.
+- Sensor integration.
 - Stepper motor control.
-- Embedded systems development.
+- Electronic circuit development.
+- Arduino-based automation.
 
 ---
 
@@ -111,11 +111,12 @@ Algeria
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ihab-Rebouh&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ihab-Rebouh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihab-Rebouh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihab-Rebouh&layout=compact&theme=tokyonight" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Ihab-Rebouh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -124,13 +125,16 @@ Algeria
 
 <p align="center">
   <a href="https://ihabrebouh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-55B1A5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-55B1A5?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/Ihab-Rebouh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ihab.rebouh@stud.th-owl.de">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
