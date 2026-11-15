@@ -28,7 +28,7 @@ Currently studying **Digital Production Engineering**, with a background in Elec
 I'm interested in:
 
 - Digital Production and Smart Manufacturing
-- Industry 4.0 and Industrial Automation
+-  Industrial Automation
 - Electronics and Embedded Systems
 - Programming and Software Development
 - Computer Vision and Artificial Intelligence
